@@ -39,12 +39,14 @@
 		<Unit filename="include/EmpleadoDir.h" />
 		<Unit filename="include/ProfeTiempoC.h" />
 		<Unit filename="include/Profesor.h" />
+		<Unit filename="include/profeemerito.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Empleado.cpp" />
 		<Unit filename="src/EmpleadoCaja.cpp" />
 		<Unit filename="src/EmpleadoDir.cpp" />
 		<Unit filename="src/ProfeTiempoC.cpp" />
 		<Unit filename="src/Profesor.cpp" />
+		<Unit filename="src/profeemerito.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
