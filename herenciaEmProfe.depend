@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1761162011 source:c:\users\100321\desktop\herenciaemprofe\main.cpp
+	<iostream>
+	"ProfeTiempoC.h"
+	"Empleado.h"
+	"EmpleadoCaja.h"
+
+1761161557 c:\users\100321\desktop\herenciaemprofe\include\profetiempoc.h
+	"Profesor.h"
+	<iostream>
+
+1761161048 c:\users\100321\desktop\herenciaemprofe\include\profesor.h
+
+1761162129 source:c:\users\100321\desktop\herenciaemprofe\src\empleado.cpp
+	<iostream>
+	"Empleado.h"
+
+1761162129 c:\users\100321\desktop\herenciaemprofe\include\empleado.h
+	<iostream>
+
+1761161189 source:c:\users\100321\desktop\herenciaemprofe\src\profesor.cpp
+	<iostream>
+	"Profesor.h"
+
+1761161655 source:c:\users\100321\desktop\herenciaemprofe\src\profetiempoc.cpp
+	"ProfeTiempoC.h"
+
+1761162199 c:\users\100321\desktop\herenciaemprofe\include\empleadocaja.h
+	"Empleado.h"
+
+1761162209 source:c:\users\100321\desktop\herenciaemprofe\src\empleadocaja.cpp
+	"EmpleadoCaja.h"
+
